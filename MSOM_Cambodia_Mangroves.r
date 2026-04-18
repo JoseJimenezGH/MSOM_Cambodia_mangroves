@@ -8,7 +8,7 @@
 # Categorical predictor: Habitat
 ###############################################################################
 
-setwd("C:/Users/Jose_/OneDrive/81 Analisis Ocupacion Multiespecie/MSOM_Stacked_Cambodia")
+setwd("C:/...")
 
 library(jagsUI)
 library(dplyr)
